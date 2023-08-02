@@ -21,35 +21,6 @@ I reserve the right to delete or make private this repository, and related repos
 
 ## Build and run
 
-### Command line tool
-```cargo run --bin kneeboard```
-
-### Web UI
-Install WebAssembly target
-
-```rustup target add wasm32-unknown-unknown```
-
-Install trunk
-
-```cargo install --locked trunk```
-
-```
-cd web
-trunk serve
-```
-
-Open ```127.0.0.1:8080``` in a browser
-
-## Development
-
-Before submitting a pull request, please:
-
-Run ```cargo clippy``` and resolve all issues.
-
-Run ```cargo test``` and resolve all issues.
-
-Finally run ```cargo fmt```
-
 ## License
 
 Licensed under:
