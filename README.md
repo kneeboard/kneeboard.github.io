@@ -19,8 +19,6 @@ Any reliance you place on this software and/or the generated notes is strictly a
 
 I reserve the right to delete or make private this repository, and related repositories, at my own discretion without notice.
 
-## Build and run
-
 ## License
 
 Licensed under:
