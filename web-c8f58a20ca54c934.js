@@ -61,6 +61,10 @@ function __wbg_get_imports() {
             const ret = arg0.cancelBubble;
             return ret;
         },
+        __wbg_checked_04db83ac6810bc82: function(arg0) {
+            const ret = arg0.checked;
+            return ret;
+        },
         __wbg_childNodes_75d35de33c9f6fbb: function(arg0) {
             const ret = arg0.childNodes;
             return ret;
